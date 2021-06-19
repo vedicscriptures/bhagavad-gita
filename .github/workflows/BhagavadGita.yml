@@ -1,0 +1,30 @@
+name: Bhagavad Gita Twitter BOT 
+on:
+  schedule:
+    # every 2 hours from 6am IST to 6pm IST  
+    - cron:  '30 0,2,4,6,8,10,12 * * *'
+
+jobs:
+  testing-name:
+    environment: Bhagavad_Gita_API
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: setup repo
+      uses: actions/checkout@v2 # checkout the repository content to github runner.
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8 #install the python needed
+    - name: Installing dependencies
+      run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
+    - name: executing python script # run the main.py to get the latest data
+      run: python main.py
+      env:
+        APIKey: ${{ secrets.APIKey }}
+        APISecretKey: ${{ secrets.APISecretKey }}
+        AccessToken: ${{ secrets.AccessToken }}
+        AccessTokenSecret: ${{ secrets.AccessTokenSecret }}
+        xapikey: ${{ secrets.xapikey }}

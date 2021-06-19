@@ -25,20 +25,19 @@
 Twitter Bot with BhagavadGitaApi to post daily Bhagavad Gita Slok
 [twitter.com/bhagavadgitaapi](https://twitter.com/bhagavadgitaapi)
 
-## 🧐 Features
+## 💻 Developed with (Sources and Credits)
 
-- Powered by: [BhagavadGitaApi](https://docs.bhagavadgitaapi.in/) , Twitter Api, Tweepy, Github actions
-- Code: Python & Bash
-- Tool: VS code 
-
-## 💻 Built with (Sources and Credits)
-
-- [BhagavadGitaApi](https://docs.bhagavadgitaapi.in/)
-- [Twitter Api](https://developer.twitter.com/en/docs)
-- [Python](https://www.python.org/)
-- [Tweepy](https://docs.tweepy.org/en/latest/)
-- [ubuntu](https://ubuntu.com)
-- [visual studio code](https://code.visualstudio.com/)
+- Powered by:
+	- [BhagavadGitaApi](https://docs.bhagavadgitaapi.in/)
+	- [Twitter Api](https://developer.twitter.com/en/docs)
+	- [Github Action](https://github.com/features/actions)
+- Code:
+	- [Python](https://www.python.org/)
+	- [Tweepy](https://docs.tweepy.org/en/latest/)
+- Tool: 
+	- [ubuntu](https://ubuntu.com)
+	- [visual studio code](https://code.visualstudio.com/)
+	- [Git](https://git-scm.com/download/linux)
 
 ## 🙏 Support
 
