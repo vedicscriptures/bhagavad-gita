@@ -14,7 +14,7 @@ def Shudh(slok):
 
 # Adding Slok Tegs
 def Teg():
-    adhyay = ["KarmaYoga"]
+    adhyay = ["VisadaYoga","SankhyaYoga","KarmaYoga","JnanaYoga","KarmaVairagyaYoga","AbhyasaYoga","ParamahamsaVijnanaYoga","AksaraParabrahmanYoga","RajaVidyaGuhyaYoga","VibhutiVistaraYoga","VisvarupaDarsanaYoga","BhaktiYoga","KsetraKsetrajnaVibhagaYoga","GunatrayaVibhagaYoga","PurusottamaYoga","DaivasuraSampadVibhagaYoga","SraddhatrayaVibhagaYoga","MoksaOpadesaYoga"]
     return(f"#BG{ch}_{sl} #{adhyay[ch-1]}\n")
 
 # Authenticate to Bhagavad Gita API and getting sloks as json
