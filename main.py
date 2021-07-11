@@ -4,8 +4,9 @@ import os
 
 # Getting sloks from Bhagavad Gita API
 Slok = Slokm()
+
 # adding tegs
-Slok += "\n#GitaSlok #BhagavadGitaApi #Radhe #Krishna #ISKCON"
+# Slok += "\n#GitaSlok #BhagavadGitaApi #Radhe #Krishna #ISKCON"
 
 # Tweet Text limit
 Post = (Slok[:277] + '..') if len(Slok) > 280 else Slok
