@@ -41,7 +41,7 @@ def Slokm():
         else:
             return("Bhagavad Gita API")   
     except:
-        print("Error during authentication")
+        print("Error during Bgapi")
 
 #testing        
 #print(Slokm())
