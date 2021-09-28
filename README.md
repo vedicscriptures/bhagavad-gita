@@ -6,6 +6,7 @@
 	<a href="https://github.com/vedicscriptures/twitter_bot/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/vedicscriptures/twitter_bot.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/twitter_bot/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/vedicscriptures/twitter_bot.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/twitter_bot/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/vedicscriptures/twitter_bot/total.svg?style=flat-square"/></a>
+        <a href="https://github.com/vedicscriptures/twitter_bot/actions/workflows/BhagavadGita.yml"><img alt="Bhagavad Gita Twitter BOT" src="https://github.com/vedicscriptures/twitter_bot/actions/workflows/BhagavadGita.yml/badge.svg"></a>
 </p>
 <p align="center">
 	<a href="https://twitter.com/BhagavadGitaApi">View Demo</a>·
