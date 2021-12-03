@@ -28,3 +28,4 @@ jobs:
         AccessToken: ${{ secrets.AccessToken }}
         AccessTokenSecret: ${{ secrets.AccessTokenSecret }}
         xapikey: ${{ secrets.xapikey }}
+        startdate: ${{ secrets.startdate }}
