@@ -21,8 +21,7 @@ def Teg():
 # Returning specific slok or translation based on time        
 def Slokm():
     try:
-        auth = {'x-api-key' : os.environ["xapikey"]}
-        response = requests.get(f"https://bhagavadgitaapi.in/slok/{ch}/{sl}", headers=auth)
+        response = requests.get(f"https://bhagavadgitaapi.in/slok/{ch}/{sl}")
         data = response.json()
         if now.hour in range(0,2):
             return data["slok"]+Teg()
