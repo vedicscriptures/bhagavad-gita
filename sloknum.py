@@ -2,12 +2,13 @@ from datetime import date
 import os
 
 # Generat Bhagavad Gita Chapter and Slok number based on current date
-# os.environ["startdate"] = "2021,6,30"
+# os.environ["startdate"] = "2021,7,8"
 def Slok_Num():
     yy,mm,dd = os.environ["startdate"].split(",")
     start = date(int(yy),int(mm),int(dd))
     today = date.today()
     days = (today-start).days
+    print(start)
     
     #slokcounts=[47,72,43,42,29,47,30,28,34,42,55,20,35,27,20,24,28,78]
     Slok_Count_Till_Chap = [47,119,162,204,233,280,310,338,372,414,469,489,524,551,571,595,623,701]
