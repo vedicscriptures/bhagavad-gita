@@ -5,9 +5,6 @@ import os
 # Getting sloks from Bhagavad Gita API
 Slok = Slokm()
 
-# adding tegs
-# Slok += "\n#GitaSlok #BhagavadGitaApi #Radhe #Krishna #ISKCON"
-
 # Tweet Text limit
 Post = (Slok[:277] + '..') if len(Slok) > 280 else Slok
 
@@ -20,7 +17,7 @@ api = tweepy.API(auth)
 try:
     api.verify_credentials()
     print("Authentication OK")
-    api.update_status(Slok)
+    api.update_status(Post)
     print("Posted")
-except:
-    print("Error during authentication")
+except Exception as e:
+    print("Error during authentication\n",e)

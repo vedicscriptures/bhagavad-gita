@@ -1,5 +1,4 @@
 from datetime import date
-import os
 
 # Generat Bhagavad Gita Chapter and Slok number based on current date
 # os.environ["startdate"] =
