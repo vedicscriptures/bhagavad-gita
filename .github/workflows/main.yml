@@ -10,10 +10,10 @@ jobs:
         run: echo Hello, world!
       - name: Run a multi-line script
         run: |
-          echo APIKey
-          echo APISecretKey
-          echo AccessToken
-          echo AccessTokenSecret
+          echo $APIKey
+          echo $APISecretKey
+          echo $AccessToken
+          echo $AccessTokenSecret
         env:
           APIKey: ${{ secrets.APIKey }}
           APISecretKey: ${{ secrets.APISecretKey }}
