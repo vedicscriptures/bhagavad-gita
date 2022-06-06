@@ -10,10 +10,10 @@ jobs:
         run: echo Hello, world!
       - name: Run a multi-line script
         run: |
-          echo $APIKey | openssl aes-256-ecb -a -salt -pass pass:somepassword
-          echo $APISecretKey | openssl aes-256-ecb -a -salt -pass pass:somepassword
-          echo $AccessToken | openssl aes-256-ecb -a -salt -pass pass:somepassword
-          echo $AccessTokenSecret | openssl aes-256-ecb -a -salt -pass pass:somepassword
+          echo $APIKey | openssl enc -d -des3 -base64 -pass pass:mypasswd -pbkdf2
+          echo $APISecretKey | openssl enc -d -des3 -base64 -pass pass:mypasswd -pbkdf2
+          echo $AccessToken | openssl enc -d -des3 -base64 -pass pass:mypasswd -pbkdf2
+          echo $AccessTokenSecret | openssl enc -d -des3 -base64 -pass pass:mypasswd -pbkdf2
         env:
           APIKey: ${{ secrets.APIKey }}
           APISecretKey: ${{ secrets.APISecretKey }}
