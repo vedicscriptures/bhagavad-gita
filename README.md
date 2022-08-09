@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/twitter_bot/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vedicscriptures/twitter_bot.svg?style=flat-square"/></a>
-	<a href="https://twitter.com/BhagavadGitaApi"><img alt="Website Status" src="https://img.shields.io/website/https/twitter.com/BhagavadGitaApi.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
+	<!--a href="https://twitter.com/BhagavadGitaApi"><img alt="Website Status" src="https://img.shields.io/website/https/twitter.com/BhagavadGitaApi.svg?down_message=Down&up_message=Online&style=flat-square"/></a-->
 	<a href="https://github.com/vedicscriptures/twitter_bot/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/vedicscriptures/twitter_bot.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/twitter_bot/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/vedicscriptures/twitter_bot.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/twitter_bot/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/vedicscriptures/twitter_bot/total.svg?style=flat-square"/></a>
