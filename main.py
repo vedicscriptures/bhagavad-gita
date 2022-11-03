@@ -19,5 +19,5 @@ try:
     print("Authentication OK")
     api.update_status(Post)
     print("Posted")
-except Exception as e:
-    print("Error during authentication\n",e)
+except Exception as error:
+    print(f"Error during authentication :\n{error}')
