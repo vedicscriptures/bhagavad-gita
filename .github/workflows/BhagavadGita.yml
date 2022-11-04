@@ -3,6 +3,7 @@ on:
   schedule:
     # every 2 hours from 6am IST to 6pm IST  
     - cron:  '30 2,4,6,8,10,12,14 * * *'
+  workflow_dispatch:
 
 jobs:
   running:
