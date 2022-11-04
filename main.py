@@ -20,4 +20,4 @@ try:
     api.update_status(Post)
     print("Posted")
 except Exception as error:
-    print(f"Error during authentication :\n{error}')
+    print(f"Error during authentication :\n{error}")
