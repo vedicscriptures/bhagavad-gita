@@ -1,97 +1,102 @@
 {
-  "_id": "BG2.2",
-  "chapter": 2,
-  "verse": 2,
-  "slok": "श्रीभगवानुवाच |\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२-२||",
-  "transliteration": "śrībhagavānuvāca .\nkutastvā kaśmalamidaṃ viṣame samupasthitam .\nanāryajuṣṭamasvargyamakīrtikaramarjuna ||2-2||",
-  "tej": {
-    "author": "Swami Tejomayananda",
-    "ht": "।।2.2।। श्री भगवान् ने कहा -- हे अर्जुन ! तुमको इस विषम स्थल में यह मोह कहाँ से उत्पन्न हुआ?  यह आर्य आचरण के विपरीत न तो स्वर्ग प्राप्ति का साधन ही है और न कीर्ति कराने वाला ही है।।"
-  },
-  "siva": {
-    "author": "Swami Sivananda",
-    "et": "2.2 The Blessed Lord said  Whence is this perilous strait come upon thee, this dejection which is unworthy of you, disgraceful, and which will close the gates of heaven upon you, O Arjuna?",
-    "ec": "2.2 कुतः whence? त्वा upon thee? कश्मलम् dejection? इदम् this? विषमे in perilous strait? समुपस्थितम् comes? अनार्यजुष्टम् unworthy (unaryanlike)? अस्वर्ग्यम् heavenexcluding? अकीर्तिकरम् disgraceful? अर्जुन O Arjuna.No commentary."
-  },
-  "purohit": {
-    "author": "Shri Purohit Swami",
-    "et": "2.2 \"The Lord said: My beloved friend! Why yield, just on the eve of battle, to this weakness which does no credit to those who call themselves Aryans, and only brings them infamy and bars against them the gates of heaven?"
-  },
-  "chinmay": {
-    "author": "Swami Chinmayananda",
-    "hc": "।।2.2।। अपने आप को आर्य कहलाने वाले एक राजा को युद्धभूमि में इस प्रकार हतबुद्धि देखकर भगवान् को आश्चर्य हो रहा था। एक सच्चे आर्य अर्थात् श्रेष्ठ पुरुष का स्वभाव तो यह होता है कि जीवन में आने वाली किसी भी परिस्थिति में अपने मनसंयम से विचलित न होकर उन परिस्थितियों का कुशलता से सामना करता है और उनको अपने अनुकूल बना लेता है। समुचित शैली में जीवन यापन करके अत्यन्त प्रतिकूल और विषम परिस्थितियों को भी आनन्ददायक सफलता में परिवर्तित किया जा सकता है। यह सब मनुष्य की बुद्धिमत्ता पर निर्भर है कि वह अपने आप को जीवन के उत्थानपतन में सही दिशा में किस प्रकार ले जाता है। यहाँ भगवान् अर्जुन के आचरण को अनार्य कहते हैं। आर्य पुरुष जीवन के उच्च आदर्शों पवित्रता और गरिमा के आह्वान के प्रति सदैव जागरूक और प्रयत्नशील रहते हैं ।अर्जुन की इस शोकाकुल अवस्था को देखकर श्रीकृष्ण को आश्चर्य इसलिये हो रहा था कि वे दीर्घ काल से अच्छी प्रकार जानते थे और इस प्रकार का शोकमोह अर्जुन के स्वभाव के सर्वथा विपरीत था। इसीलिये वे यहाँ कहते हैं तुमको इस विषमस्थल में৷৷.आदि।हिन्दुओं का यह विश्वास है कि क्षत्रिय कुल में जन्मे हुये व्यक्ति का कर्तव्य है धर्म के लिये युद्ध करना और इस प्रकार यदि उसे रणभूमि में प्राण त्यागना पड़े तो उस वीर को स्वर्ग की प्राप्ति होती है।"
-  },
-  "san": {
-    "author": "Dr.S.Sankaranarayan",
-    "et": "2.2. The Bhagavat said  O Arjuna !   At a critical moment,  whence did this sinful act come to you which is practised by men of ignoble (low) birth and which is leading to the hell and is inglorious ?"
-  },
-  "adi": {
-    "author": "Swami Adidevananda",
-    "et": "2.2 The Lord said  Whence comes on you this despondency, O Arjuna, in this crisis? It is unift for a noble person. It is disgraceful and it obstructs one's attainment of heaven."
-  },
-  "gambir": {
-    "author": "Swami Gambirananda",
-    "et": "2.2 The Blessed Lord said  O Arjuna, in this perilous place, whence has come to you this impurity entertained by unenlightened persons, which does not lead to heaven and which brings infamy?"
-  },
-  "madhav": {
-    "author": "Sri Madhavacharya",
-    "sc": "।।2.2।।Sri Madhvacharya did not comment on this sloka. The commentary starts from 2.11."
-  },
-  "anand": {
-    "author": "Sri Anandgiri",
-    "sc": "।।2.2।।किं तद्वाक्यमित्यपेक्षायामाह   श्रीभगवानिति।  कुतो हेतोस्त्वा त्वां सर्वक्षत्रियप्रवरं कश्मलं मलिनं शिष्टगर्हितं युद्धात्पराङ्मुखत्वं विषमे समयस्थाने समुपस्थितं प्राप्तं अनार्यैः शास्त्रार्थमविद्वद्भिर्जुष्टं सेवितमस्वर्ग्यं स्वर्गानर्हं प्रत्यवायकारणमिह चाकीर्तिकरमयशस्करमर्जुननाम्ना प्रख्यातस्य तव नैतद्युक्तमित्यर्थः।"
-  },
-  "rams": {
-    "author": "Swami Ramsukhdas",
-    "ht": "।।2.2।। श्रीभगवान् बोले (टिप्पणी प0 38.1) - हे अर्जुन! इस विषम अवसरपर तुम्हें यह कायरता कहाँसे प्राप्त हुई, जिसका कि श्रेष्ठ पुरुष सेवन नहीं करते, जो स्वर्गको देनेवाली नहीं है और कीर्ति करनेवाली भी नहीं है।",
-    "hc": "2.2।। व्याख्या--'अर्जुन'-- यह सम्बोधन देनेका तात्पर्य है कि तुम स्वच्छ, निर्मल अन्तःकरणवाले हो। अतः तुम्हारे स्वभावमें कालुष्य--कायरताका आना बिलकुल विरुद्ध बात है। फिर यह तुम्हारेमें कैसे आ गयी?\n 'कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्'-- भगवान् आश्चर्य प्रकट करते हुए अर्जुनसे कहते हैं कि ऐसे युद्धके मौकेपर तो तुम्हारेमें शूरवीरता, उत्साह आना चाहिये था, पर इस बेमौकेपर तुम्हारेमें यह कायरता कहाँसे आ गयी!\nआश्चर्य दो तरहसे होता है--अपने न जाननेके कारण और दूसरेको चेतानेके लिए। भगवान्का यहाँ जोआश्चर्य-पूर्वक बोलना है, वह केवल अर्जुनको चेतानेके लिये ही है, जिससे अर्जुनका ध्यान अपने कर्तव्यपर चला जाय। 'कुतः'  कहनेका तात्पर्य यह है कि मूलमें यह कायरतारूपी दोष तुम्हारेमें (स्वयंमें) नहीं है। यह तो आगन्तुक दोष है, जो सदा रहनेवाला नहीं है।'समुपस्थितम्' कहनेका तात्पर्य है कि यह कायरता केवल तुम्हारे भावोंमें और वचनोंमें ही नहीं आयी है; किन्तु तुम्हारी क्रियाओंमें भी आ गयी है। यह तुम्हारेपर अच्छी तरहसे छा गयी है, जिसके कारण तुम धनुष-बाण छोड़कर रथके मध्यभागमें बैठ गये हो।'अनार्यजुष्टम्' (टिप्पणी प0 38.2)--समझदार श्रेष्ठ मनुष्योंमें जो भाव पैदा होते हैं, वे अपने कल्याणके उद्देश्यको लेकर ही होते हैं। इसलिये श्लोकके उत्तरार्धमें भगवान् सबसे पहले उपर्युक्त पद देकर कहते हैं कि तुम्हारेमें जो कायरता आयी है, उस कायरताको श्रेष्ठ पुरुष स्वीकार नहीं करते। कारण कि तुम्हारी इस कायरतामें अपने कल्याणकी बात बिलकुल नहीं है। कल्याण चाहनेवाले श्रेष्ठ मनुष्य प्रवृत्ति और निवृत्ति दोनोंमें अपने कल्याणका ही उद्देश्य रखते हैं। उनमें अपने कर्तव्यके प्रति कायरता उत्पन्न नहीं होती। परिस्थितिके अनुसार उनको जो कर्तव्य प्राप्त हो जाता है, उसको वे कल्याणप्राप्तिके उद्देश्यसे उत्साह और तत्परतापूर्वक साङ्गोपाङ्ग करते हैं। वे तुम्हारे-जैसे कायर होकर युद्धसे या अन्य किसी कर्तव्य-कर्मसे उपरत नहीं होते। अतः युद्धरूपसे प्राप्त कर्तव्य-कर्मसे उपरत होना तुम्हारे लिये कल्याणकारक नहीं है।\n 'अस्वर्ग्यम्'--कल्याणकी बात सामने न रखकर अगर सांसारिक दृष्टिसे भी देखा जाय, तो संसारमें स्वर्गलोग ऊँचा है। परन्तु तुम्हारी यह कायरता स्वर्गको देनेवाली भी नहीं है अर्थात् कायरतापूर्वक युद्धसे निवृत्त होनेका फल स्वर्गकी प्राप्ति भी नहीं हो सकता।\n 'अकीर्तिकरम्'--अगर स्वर्गप्राप्तिका भी लक्ष्य न हो, तो अच्छा माना जानेवाला पुरुष वही काम करता है, जिससे संसारमें कीर्ति हो। परन्तु तुम्हारी यह जो कायरता है यह इस लोकमें भी कीर्ति (यश) देनेवाली नहीं है, प्रत्युत अपकीर्ति (अपयश) देनेवाली है। अतः तुम्हारेमें कायरताका आना सर्वथा ही अनुचित है।\n\nभगवान्ने यहाँ  'अनार्यजुष्टम् अस्वर्ग्यम् और अकीर्तिकरम्'--ऐसा क्रम देकर तीन प्रकारके मनुष्य बताये हैं (1) जो विचारशील मनुष्य होते हैं वे केवल अपना कल्याण ही चाहते हैं। उनका ध्येय, उद्देश्य केवल कल्याणका ही होता है। (2) जो पुण्यात्मा मनुष्य होते हैं, वे शुभ-कर्मोंके द्वारा स्वर्गकी प्राप्ति चाहते हैं। वे स्वर्गको ही श्रेष्ठ मानकर उसकी प्राप्तिका ही उद्देश्य रखते हैं। (3) जो साधारण मनुष्य होते हैं, वे संसारको ही आदर देते हैं। इसलिये वे संसारमें अपनी कीर्ति चाहते हैं और उस कीर्तिको ही अपना ध्येय मानते हैं।\nउपर्युक्त तीनों पद देकर भगवान् अर्जुनको सावधान करते हैं कि तुम्हारा जो यह युद्ध न करनेका निश्चय है, यह विचारशील और पुण्यात्मा मनुष्योंके ध्येय--कल्याण और स्वर्गको प्राप्त करानेवाला भी नहीं है, तथा साधारण मनुष्योंके ध्येय--कीर्तिको प्राप्त करानेवाला भी नहीं है। अतः मोहके कारण तुम्हारा युद्ध न करनेका निश्चय बहुत ही तुच्छ है, जो कि तुम्हारा पतन करनेवाला, तुम्हें नरकोंमें ले जानेवाला और तुम्हारी अपकीर्ति करनेवाला होगा।\n\nसम्बन्ध -- कायरता आनेके बाद अब क्या करें? इस जिज्ञासाको दूर करनेके लिये भगवान् कहते हैं--"
-  },
-  "raman": {
-    "author": "Sri Ramanuja",
-    "sc": "।।2.2।।संजय उवाच  श्रीभगवानुवाच  एवम् उपविष्टे पार्थे कुतः अयम् अस्थाने समुत्थितः शोक इति आक्षिप्य तम् इमं विषमस्थं शोकम् अविद्वत्सेवितं परलोकविरोधिनम् अकीर्तिकरम् अतिक्षुद्रं हृदयदौर्बल्यकृतं परित्यज्य युद्धाय उत्तिष्ठ इति श्रीभगवान् उवाच।",
-    "et": "2.1 - 2.3 Sanjaya said - Lord said  When Arjuna thus sat, the Lord, opposing his action, said:  'What is the reason for your misplaced grief?  Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you, which is very mean, and which is caused by faint-heartedness."
-  },
-  "abhinav": {
-    "author": "Sri Abhinav Gupta",
-    "sc": "।।2.2।।कुत इति।  आदो लोकव्यवहाराश्रयेणैव भगवान् अर्जुनं प्रतिबोधयति।  क्रमात्तु ज्ञानं करिष्यति इत्यतः अनार्यजुष्टमित्याह।",
-    "et": "2.2 Kutah etc.  To commence with, the Bhagavat exhorts Arjuna just by following the worldly (common) practice; but, in due course, He will impart knowledge.  Hence He says 'practised by men of low birth'. \n Uttering words of ruke such as  'unmanliness' etc., the Bhagavat causes  [Arjuna] to know that he misconceives demerit as meritorious :"
-  },
-  "sankar": {
-    "author": "Sri Shankaracharya",
-    "ht": "।।2.2।।No such translation is available. Translation starts from 2.10",
-    "sc": "2.2  Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.",
-    "et": "2.2 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10."
-  },
-  "jaya": {
-    "author": "Sri Jayatritha",
-    "sc": "।।2.2।।Sri Jayatirtha did not comment on this sloka. The commentary starts from 2.11."
-  },
-  "vallabh": {
-    "author": "Sri Vallabhacharya",
-    "sc": "।।2.2  2.3।।मोहमधुहन्ता वाक्यं वक्ष्यमाणमुवाच  कुतस्त्वेति। विषमे सङ्कटे हे अर्जुन शुद्धस्वरूप कुत इदं च कश्मलं समुपस्थितम्।"
-  },
-  "ms": {
-    "author": "Sri Madhusudan Saraswati",
-    "sc": "।।2.2।।तदेव भगवतो वाक्यमवतारयति  श्रीभगवानुवाचेति।ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः। वैराग्यस्याथ मोक्षस्य षण्णां भग इतीङ्गना।। समग्रस्येति प्रत्येकं संबन्धः। मोक्षस्येति तत्साधनस्य ज्ञानस्य। इङ्गना संज्ञा। एतादृशं समग्रमैश्वर्यादिकं नित्यमप्रतिबन्धेन यत्र वर्तते स भगवान्। नित्ययोगे मतुप्। तथा  उत्पत्तिं च विनाशं च भूतानामागतिं गतिम्। वेत्ति विद्यामविद्यां च स वाच्यो भगवानिति।। अत्र भूतानामिति प्रत्येकं संबध्यते। उत्पत्तिविनाशशब्दौ तत्कारणस्याप्युपलक्षकौ। आगतिगती आगामिन्यौ संपदापदौ। एतादृशो भगवच्छब्दार्थः श्रीवासुदेव एव पर्यवसित इति तथोच्यते  इदं स्वधर्मात्पराङ्मुखत्वं कृपाव्यामोहाश्रुपातादिपुरःसरं कश्मलं शिष्टगर्हितत्वेन मलिनं विषमे सभये स्थाने त्वा त्वां सर्वक्षत्रियप्रवरं कुतो हेतोः समुपस्थितं प्राप्तं किं मोक्षेच्छातः किंवा स्वर्गेच्छातः अथवा कीर्तीच्छात इति किंशब्देनाक्षिप्यते। हेतुत्रयमपि निषेधति त्रिभिर्विशेषणैरुत्तरार्धेन। आर्यैर्मुमुक्षुभिर्न जुष्टमसेवितम्।स्वधर्मैराशयशुद्धिद्वारा मोक्षमिच्छद्भिरपक्वकषायैर्मुमुक्षुभिः कथं स्वधर्मस्त्याज्य इत्यर्थः। संन्यासाधिकारी तु पक्वकषायोऽग्रे वक्ष्यते। अस्वर्ग्यं स्वर्गहेतुधर्मविरोधित्वान्न स्वर्गेच्छया सेव्यम्। अकीर्तिकरं कीर्त्यभावकरमपकीर्तिकरं वा न कीर्तीच्छया सेव्यम्। तथाच मोक्षकामैः स्वर्गकामैः कीर्तिकामैश्च वर्जनीयम्। तत्काम एव त्वं सेवस इत्यहो अनुचितचेष्टितं तवेति भावः।"
-  },
-  "srid": {
-    "author": "Sri Sridhara Swami",
-    "sc": "।।2.2।।   तदेव वाक्यमाह। श्रीभगवानुवाच   कुत इति।  कुतो हेतोः त्वा इति त्वाम्। विषमे संकटे इदं कश्मलं समुपस्थितमयं मोहः प्राप्तः। यत आर्यैरसेवितम्। अस्वर्ग्यमधर्म्यमयशस्करं च।"
-  },
-  "dhan": {
-    "author": "Sri Dhanpati",
-    "sc": "।।2.2।।   किं तद्वाक्यमित्यत आह  श्रीभगवानिति। कुतो हेतोः त्वा त्वां शूरशिरोमणिमिदं स्वधर्मभूताद्युद्धात्पराङभुखत्वं कश्मलं मलिनं विषमेऽसमये समुपस्थितं संप्राप्तम्। यतोऽनार्यैर्दुष्टैर्जुष्टं सेवितमतएव दृष्टादृष्टफलरहितमित्याह। अस्वर्ग्यमकीर्तिकरमिति विशेषणद्वयेन स्वर्गानर्हं प्रत्यवायजनकत्वात्। अकीर्तिकरमयशस्यं किं मोक्षेच्छातः किंवा स्वर्गेच्छातः अथवा कीर्तिच्छातः इति किंशब्देनाक्षिप्यते। हेतुत्रयमपि निषेधयति। त्रिभिर्विशेषणैरुत्तरार्धेन। आर्यैर्मुमुक्षुभिर्न जुष्टमसेवितमिति केचित् न आर्यैर्जुष्टम्। यत्त्वार्यैरजुष्टमिति विग्रहो दर्शितस्तत्त्वर्थैक्येऽपि पदव्युत्क्रमदोषादुपेक्ष्यमित्यन्ये  स्वधर्मयुद्धं कुर्वन्मलात्मकं पापं न प्राप्स्यसीति द्योतयन्नाह   अर्जुनेति।  अर्जुननाम्ना प्रख्यातस्य तव नैतद्युक्तमित्येके। हे अर्जुन स्वच्छस्वभाव तव नैतद्युक्तमिति भाव इत्यन्ये।"
-  },
-  "venkat": {
-    "author": "Vedantadeshikacharya Venkatanatha",
-    "sc": "।। 2.2अथ शोकापनोदनविषयो द्वितीयोऽध्याय आरभ्यते। सञ्जयवाक्याविच्छेदेऽपिसञ्जय उवाच इति निर्देशोऽध्यायान्तरारम्भरूपतयाऽन्योक्तिशङ्कापरिहाराय।तं तथा इत्यादि श्लोकत्रयं व्याख्याति  एवमिति।विषीदन्तम् इत्यन्तस्य पूर्वाध्यायोक्तानुवादत्वं सूचयितुंएवमुपविष्टे पार्थे इत्युक्तम्।तथा इति अस्थान इत्यर्थः। कृपा च आन्तरो विषादः ततः अश्रुपूर्णाकुलेक्षणं बाह्यशोकेनाप्याविष्टमित्यर्थः। विषीदन्तं पूर्वाध्यायोक्तरीत्या विषादं प्राप्योविष्टम्। मधुसूदनशब्देन शोकमूलरजस्तमोनिबर्हणत्वं सूचितम्।अस्थाने इति विषमशब्दोपचरितार्थः। कश्मलमिह मूर्च्छाकल्पः शोकःशोकसंविग्नमानसः 1।47 इति प्रकृतत्वात्। प्रख्यातवंशवीर्यश्रुतादिसूचकाः अर्जुनपार्थपरन्तपेति शब्दाः कौन्तेयत्वात्त्वयि आक्षेपकाकुगर्भा इत्यभिप्रायेणआक्षिप्य इत्युक्तम्।कुतः शब्दश्च हेत्वाभासस्य हेतुतां प्रक्षिपन् धिक्कारगर्भः। परान् तापयतीति परन्तपः। क्लैब्यमिह कातर्यम् तत्हृदयदौर्बल्यशब्देन विवृतम्। पूर्वश्लोकस्थविशेषणानामप्यत्र कातर्यत्याज्यताहेतुत्वादर्थतस्तान्यप्यत्र सङ्गमयति  तमिमं विषमस्थमित्यादिना। अतत्त्वेभ्यः आरात् दूरात् याता बुद्धिर्येषां ते आर्याः विद्वांसः तदन्ये तु अनार्याः।अस्वर्ग्यम् इत्यत्राविशेषात् स्वर्गशब्दः परलोकमात्रोपलक्षकः। नञश्चात्र विरोधिपरतया स्वर्ग्यशब्दनिर्दिष्टस्वर्गहेतुविरोधित्वेऽर्थतस्तत्फलविरोधात्परलोकविरोधिनमित्युक्तम्। क्षुद्रशब्दस्यान्न सङ्कोचकाभावेनापेक्षिकक्षुद्रविषयत्वायोगात् महत्तरस्यार्जुनस्य तथाविधावस्थापर्यालोचनाच्च काष्ठाप्राप्तं क्षुद्रत्वं विवक्षितमिति दर्शयितुंअतिक्षुद्रम् इत्युक्तम्। कार्ये कारणोपचार इति वा कारणत्यागस्य कार्यत्यागार्थतया पूर्वोत्तरश्लोकफलितार्थविवक्षया वाहृदयदौर्बल्यकृतम् इत्युक्तम् अदृढहृदयत्वकृतमित्यर्थः।परन्तप इत्यनेन ज्ञापितं प्राकरणिकमर्थमध्याहृत्योक्तंयुद्धायोत्तिष्ठेति।"
-  },
-  "puru": {
-    "author": "Sri Purushottamji",
-    "sc": "।।2.2।।भगवद्वाक्यमेवाह  कुतस्त्वोमिति। विषमे असमयेअयं युद्धोत्साहसमयः नतु दयायाः इत्यस्मिन्समये हे अर्जुन त्वामिदं कश्मलं कुतः समुपस्थितं अयं तव मोहः कुतः प्राप्तः। स्वेच्छाज्ञानादस्य कश्मलत्वमुक्त भगवता। कश्मलं विशिनष्टि विशेषणत्रयेण  अनार्यजुष्टं न विद्यते आर्यत्वं येषु तैः सेवितम् अस्वर्ग्यं न विद्यते स्वर्गो यस्मात् तेन धर्मप्रतिपक्षतोक्ता। अकीर्त्तिकरं कीर्तिनाशकं तेन क्षात्त्रधर्मनाशकत्वेन कुलधर्मप्रतिपक्षकत्वमुक्तम्।"
-  },
-  "neel": {
-    "author": "Sri Neelkanth",
-    "sc": "।।2.2।।अर्जुनमुद्योजयन् श्रीभगवानुवाच   कुत इति।  कश्मलं वैक्लव्यम्। विषमे युद्धसंकटे। अनार्यैर्भीरुभिर्जुष्टं सेवितं न तु त्वादृशैः शूरैः न आर्यैर्जुष्टमिति वा। यत्तु आर्यैरजुष्टमिति विग्रहो दर्शितस्तदर्थैक्येऽपि पदव्युत्क्रमदोषादुपेक्ष्यम्। अतएवास्वर्ग्यमकीर्तिकरं च। हे अर्जुन स्वच्छस्वभाव तव नैतद्युक्तमिति भावः।"
-  }
+    "_id": "BG1.3",
+    "chapter": 1,
+    "verse": 3,
+    "slok": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||",
+    "transliteration": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||1-3||",
+    "tej": {
+        "author": "Swami Tejomayananda",
+        "ht": "।।1.3।।हे आचार्य ! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।"
+    },
+    "siva": {
+        "author": "Swami Sivananda",
+        "et": "1.3. \"Behold, O Teacher! this mighty army of the sons of Pandu,\narrayed by the son of Drupada, thy wise disciple.",
+        "ec": "1.3 पश्य behold? एताम् this? पाण्डुपुत्राणाम् of the sons of Pandu? आचार्य O Teacher? महतीम् great? चमूम् army? व्यूढाम् arrayed? द्रुपदपुत्रेण son of Drupada? तव शिष्येण by your disciple? धीमता wise.No Commentary."
+    },
+    "purohit": {
+        "author": "Shri Purohit Swami",
+        "et": "1.3 Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple."
+    },
+    "chinmay": {
+        "author": "Swami Chinmayananda",
+        "hc": "।।1.3।। वास्तव में दुर्योधन की यह मूर्खता है कि वह द्रोणाचार्य को पाण्डवों की सैन्य रचना के विषय में विस्तार से बताये। आगे हम देखेंगे कि वह आवश्यकता से अधिक बातें करता है जो युद्ध के परिणाम के विषय में उसके संदेह का स्पष्ट लक्षण है।"
+    },
+    "san": {
+        "author": "Dr.S.Sankaranarayan",
+        "et": "1.3. O teacher !  Behold this mighty army of  the sons of  Pandu,  marshalled in  a military array by Drupada's son,  your intelligent pupil."
+    },
+    "adi": {
+        "author": "Swami Adidevananda",
+        "et": "1.3 Behold, O teacher, this mighty army of the Pandavas, arrayed by the son of Drupada, your intelligent disciple."
+    },
+    "gambir": {
+        "author": "Swami Gambirananda",
+        "et": "1.3 O teacher, (please) see this vast army of the sons of Pandu, arrayed for battle by the son of Drupada, your intelligent disciple."
+    },
+    "madhav": {
+        "author": "Sri Madhavacharya",
+        "sc": "।।1.3।।Sri Madhvacharya  did not comment on this sloka. The commentary starts from 2.11."
+    },
+    "anand": {
+        "author": "Sri Anandgiri",
+        "sc": "।।1.3।।तदेव वचनमुदाहरति   पश्येति।  एतामस्मदभ्याशे महापुरुषानपि भवत्प्रमुखानपरिगणय्य भयलेशशून्यामवस्थितां चमूमिमां सेनां पाण्डुपुत्रैर्युधिष्ठिरादिभिरानीतां महतीमनेकाक्षौहिणीसहितामक्षोभ्यां पश्येत्याचार्यं दुर्योधनो नियुङ्क्ते नियोगद्वारा च तस्मिन्परेषामवज्ञां विज्ञापयन्क्रोधातिरेकमुत्पादयितुमुत्सहते। परकीयसेनाया वैशिष्ट्याभिधानद्वारा परापरपक्षेऽपि त्वदीयमेव बलमिति सूचयन्नाचार्यस्य तन्निरसनं सुकरमिति मन्वानः सन्नाह   व्यूढामिति।  राज्ञो द्रुपदस्य पुत्रस्तव शिष्यो धृष्टद्युम्नो लोके ख्यातिमुपगतः स्वयं च शस्त्रास्त्रविद्यासंपन्नो महामहिमा तेन व्यूहमापाद्याधिष्ठितामिमां चमूं किमिति न प्रतिपद्यसे किमिति वा मृष्यसीत्यर्थः।"
+    },
+    "rams": {
+        "author": "Swami Ramsukhdas",
+        "ht": "।।1.3।। हे आचार्य! आपके बुद्धिमान् शिष्य द्रुपदपुत्र धृष्टद्युम्न के द्वारा व्यूहरचना से खड़ी की हुई पाण्डवों की इस बड़ी भारी सेना को देखिये",
+        "hc": "1.3।। व्याख्या--'आचार्य' द्रोणके लिये 'आचार्य' सम्बोधन देनेमें दुर्योधनका यह भाव मालूम देता है कि आप हम सबके--कौरवों और पाण्डवों के आचार्य हैं। शस्त्रविद्या सिखानेवाले होनेसे आप सबके गुरु हैं। इसलिये आपके मनमें किसीका पक्ष या आग्रह नहीं होना चाहिये।\n\n 'तव शिष्येण धीमता'--इन पदोंका प्रयोग करनेमें दुर्योधनका भाव यह है कि आप इतने सरल हैं कि अपने मारनेके लिये पैदा होनेवाले धृष्टद्युम्नको भी आपने अस्त्र-शस्त्रकी विद्या सिखायी है; और वह आपका शिष्य धृष्टद्युम्न इतना बुद्धिमान है कि उसने आपको मारनेके लिये आपसे ही अस्त्र-शस्त्रकी विद्या सीखी है।'द्रुपदपुत्रेण'--यह पद कहनेका आशय है कि आपको मारनेके उद्देश्यको लेकर ही द्रुपदने याज और उपयाज नामक ब्राह्मणोंसे यज्ञ कराया, जिससे धृष्टद्युम्न पैदा हुआ। वही यह द्रुपदपुत्र धृष्टद्युम्न आपके सामने (प्रतिपक्षमें) सेनापतिके रूपमें खड़ा है।यद्यपि दुर्योधन यहाँ 'द्रुपदपुत्र' के स्थानपर 'धृष्टद्युम्न' भी कह सकता था, तथापि द्रोणाचार्यके साथ द्रुपद जो वैर रखता था, उस वैरभावको याद दिलानेके लिये दुर्योधन यहाँ 'द्रुपदपुत्रेण' शब्दका प्रयोग करता है कि अब वैर निकालनेका अच्छा मौका है।'पाण्डुपुत्राणाम् एतां व्यूढां महतीं चमूं पश्य'--द्रुपदपुत्रके द्वारा पाण्डवोंकी इस व्यूहाकार खड़ी हुई बड़ी भारी सेनाको देखिये। तात्पर्य है कि जिन पाण्डवोंपर आप स्नेह रखते हैं, उन्हीं पाण्डवोंने आपके प्रतिपक्षमें खास आपको मारनेवाले द्रुपदपुत्रको सेनापति बनाकर व्यूह-रचना करनेका अधिकार दिया है। अगर पाण्डव आपसे स्नेह रखते तो कम-से-कम आपको मारनेवालेको तो अपनी सेनाका मुख्य सेनापति नहीं बनाते, इतना अधिकार तो नहीं देते। परन्तु सब कुछ जानते हुए भी उन्होंने उसीको सेनापति बनाया है।यद्यपि कौरवोंकी अपेक्षा पाण्डवोंकी सेना संख्यामें कम थी अर्थात् कौरवोंकी सेना ग्यारह अक्षौहिणी  (टिप्पणी प0 5)  और पाण्डवोंकी सेना सात अक्षौहिणी थी, तथापि दुर्योधन पाण्डवोंकी सेनाको बड़ी भारी बता रहा है। पाण्डवोंकी सेनाको बड़ी भारी कहनेमें दो भाव मालूम देते हैं--\n\n(1) पाण्डवोंकी सेना ऐसे ढंगसे व्यूहाकार खड़ी हुई थी, जिससे दुर्योधनको थोड़ी सेना भी बहुत ब़ड़ी दीख रही थी और (2) पाण्डव-सेनामें सब-के-सब योद्धा एक मतके थे। इस एकताके कारण पाण्डवोंकी थोड़ी सेना भी बलमें, उत्साहमें बड़ी मालूम दे रही थी। ऐसी सेनाको दिखाकर दुर्योधन द्रोणाचार्यसे यह कहना चाहता है कि युद्ध करते समय आप इस सेनाको सामान्य और छोटी न समझें। आप विशेष बल लगाकर सावधानीसे युद्ध करें।पाण्डवोंका सेनापति है तो आपका शिष्य द्रुपदपुत्र ही; अतः उसपर विजय करना आपके लिये कौन-सी बड़ी बात है!'एतां पश्य' कहनेका तात्पर्य है कि यह पाण्डव-सेना युद्धके लिये तैयार होकर सामने खड़ी है। अतः हमलोग इस सेनापर किस तरहसे विजय कर सकते हैं--इस विषयमें आपको जल्दी-से-जल्दी निर्णय लेना चाहिये।सम्बन्ध--द्रोणाचार्यसे पाण्डवोंकी सेना देखनेके लिये प्रार्थना करके अब दुर्योधन उन्हें पाण्डव-सेनाके महारथियोंको दिखाता है।"
+    },
+    "raman": {
+        "author": "Sri Ramanuja",
+        "sc": "।।1.3।।धृतराष्ट्र उवाच  सञ्जय उवाच  दुर्योधनः स्वयमेव भीमाभिरक्षितं पाण्डवानां बलम् आत्मीयं च भीष्माभिरक्षितं बलम् अवलोक्य आत्मविजये तस्य बलस्य पर्याप्तताम् आत्मीयस्य बलस्य तद्विजये चापर्याप्तताम् आचार्याय निवेद्य अन्तरे विषण्णः अभवत्। तस्य विषादम् आलोक्य भीष्मः तस्य हर्षं जनयितुं सिंहनादं शङ्खाध्मानं च कृत्वा शङ्खभेरीनिनादैः च विजयाभिशंसिनं घोषं च अकारयत्। ततः तं घोषम् आकर्ण्य सर्वेश्वरेश्वरः पार्थसारथी रथी च पाण्डुतनयः त्रैलोक्यविजयोपकरणभूते महति स्यन्दने स्थितौ त्रैलोक्यं कम्पयन्तौ श्रीमत्पाञ्चजन्यदेवदत्तौ दिव्यौ शङ्खौ प्रदध्मतुः। ततो युधिष्ठिरवृकोदरादयः च स्वकीयान् शङ्खान् पृथक् पृथक् प्रदध्मुः। स घोषो दुर्योधनप्रमुखानां सर्वेषाम् एव भवत्पुत्राणां हृदयानि बिभेद। अद्य एव नष्टं कुरूणां बलम् इति धार्त्तराष्ट्रा मेनिरे। एवं तद्विजयाभिकाङ्क्षिणे धृतराष्ट्राय संजयः अकथयत्।अथ युयुत्सून् अवस्थितान् धार्तराष्ट्रान् भीष्मद्रोणप्रमुखान् दृष्ट्वा लङ्कादहनवानरध्वजः पाण्डुतनयो ज्ञानशक्तिबलैश्वर्यवीर्यतेजसां निधिं स्वसंकल्पकृतजगदुदयविभवलयलीलं हृषीकेशं परावरनिखिलजनान्तर्बाह्यसर्वकरणानां सर्वप्रकारकनियमने अवस्थितं समाश्रितवात्सल्यविवशतया स्वसारथ्ये अवस्थितं युयुत्सून् यथावत् अवेक्षितुं तदीक्षणक्षमे स्थाने रथं स्थापय इति अचोदयत्।",
+        "et": "1.1 - 1.19 Dhrtarastra said - Sanjaya said  Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within.\n\nObserving his (Duryodhana's) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory.\n\nSanjaya said to Dhrtarastra:  Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'"
+    },
+    "abhinav": {
+        "author": "Sri Abhinav Gupta",
+        "sc": "।।1.2  1.9।।किं वा अनेन बहुपरिगणनेन (K omits बहु  )। इदं तावद्वस्तुतत्त्वम् इत्याह  ।",
+        "et": "1.2  1.9  Why this exhaustive counting? The reality of things is this:"
+    },
+    "sankar": {
+        "author": "Sri Shankaracharya",
+        "ht": "।।1.3।।Sri Sankaracharya did not comment on this sloka.",
+        "sc": "1.3 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.",
+        "et": "1.3 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10."
+    },
+    "jaya": {
+        "author": "Sri Jayatritha",
+        "sc": "।।1.3।।Sri Jayatirtha did not comment on this sloka. The commentary starts from 2.11."
+    },
+    "vallabh": {
+        "author": "Sri Vallabhacharya",
+        "sc": "।।1.2  1.11।।दुर्योधनोऽपि वृकोदरादिभी रक्षितं पाण्डवानां बलं भीष्माभिरक्षितं स्वीयं च बलं विलोक्य आत्मजविजये तद्बलस्य पर्याप्ततां आत्मबलस्य तद्बिजयेऽपर्याप्ततां च आचार्ये निवेद्यान्तरेव विष्ण्णोऽभूत्।"
+    },
+    "ms": {
+        "author": "Sri Madhusudan Saraswati",
+        "sc": "।।1.3।।तदेव वाक्यविशेषरूपं वचनमुदाहरति  पश्यैतामित्यादिना।तस्य संजनयन्हर्षम् इत्यतः प्राक्तनेन पाण्डवेषु प्रियशिष्येष्वतिस्निग्धहृदयत्वादाचार्यो युद्धं न करिष्यतीति संभाव्य तस्मिन्परेषामवज्ञां विज्ञापयन् तस्य क्रोधातिशयमुत्पादयितुमाह। एतामत्यासन्नत्वेन भवद्विधानपि महानुभावानवगणय्य भयशून्यत्वेन स्थितां पाण्डुपुत्राणां चमूं महतीमनेकाक्षौहिणीसहितत्वेन दुर्निवारां पश्यापरोक्षीकुरु। प्रार्थनायां लोट्। अहं शिष्यत्वात्त्वामाचार्यं प्रार्थय इत्याह  आचार्येति। दृष्ट्वा च तत्कृतामवज्ञां स्वयमेव ज्ञास्यसीति भावः। ननु तदीयावज्ञा सोढव्यैवास्माभिः प्रतिकर्तुशक्यत्वादित्याशङ्क्य तन्निरसनं तव सुकरमेवेत्याह  व्यूढां तव शिष्येणेति। शिष्यापेक्षया गुरोराधिक्यं सर्वसिद्धमेव। व्यूढां तु धृष्टद्युम्नेनेत्यनुक्त्वा द्रुपदपुत्रेणेति कथनं द्रुपदपूर्ववैरसूचनेन क्रोधोद्दीपनार्थम्। धीमतेति पदमनुपेक्षणीयत्वसूचनार्थम्। व्यासङ्गान्तरनिराकरणेन त्वरातिशयार्थं पश्येति प्रार्थनम्। अन्यच्च हे पाण्डुपुत्राणामाचार्य नतु मम। तेषु स्नेहातिशयात्। द्रुपदपुत्रेण तव शिष्येणेति त्वद्वधार्थमुत्पन्नोऽपि त्वयाध्यापित इति तव मौढ्यमेव ममानर्थकारणमिति सूचयति। शत्रोस्तव सकाशात्त्वद्वधोपायभूता विद्या गृहीतेति तस्य धीमत्त्वम्। अतएव तच्चमूदर्शनेनानन्दस्तवैव भविष्यति भ्रान्तत्वान्नान्यस्य कस्यचिदपि। यंप्रतीयं प्रदर्शनीयेति त्वमेवैतां पश्येत्याचार्यंप्रति तत्सैन्यं प्रदर्शयन्निगूढं द्वेषं द्योतयति। एवंच यस्य धर्मक्षेत्रं प्राप्याचार्येऽपीदृशी दृष्टबुद्धिस्तस्य काऽनुतापशङ्का सर्वाभिशङ्कित्वेनातिदुष्टाशयत्वादिति भावः।"
+    },
+    "srid": {
+        "author": "Sri Sridhara Swami",
+        "sc": "।।1.3।।  तदेव वाक्यमाह   पश्यैतामित्यादिनवभिः श्लोकैः।  भो आचार्य पाण्डवानां विततां चमूं सेनां पश्य। द्रुपदपुत्रेण धृष्टद्युम्नेन व्यूढां व्यूहरचनया अधिष्ठिताम्।"
+    },
+    "dhan": {
+        "author": "Sri Dhanpati",
+        "sc": "।।1.3।।तदेवोदाहरति   पश्येत्यादिना।  एतां भवदादीनतिरथानपरिगणय्य संमुखे स्थितां पाण्डुपुत्राणां युधिष्ठिरादीनां चमूं सेनां महतीमनेकाक्षौहिणीयुक्तामक्षोभ्यां द्रुपदस्य पुत्रेण धृष्टद्युम्नेन तव शिष्येण बुद्धिमतां व्यूढां व्यूहरचनया स्थापितां पश्य। हे आचार्य उभयेषामाचार्यस्यापि तव पाण्डवेषु प्रीतिर्न युक्ता यतस्त्वामपरिगणय्य तव संमुखे महती सेना तैः स्थापितेत्याशयः। द्रुपदपुत्रेण तव शिष्येणेति पदद्वयेन द्रुपदपुत्रस्य स्वमृत्योरपि त्वया शिक्षणं कृतमिति मृत्योरपि तव भयं नास्तीति सूचितम्। एतेन स्वमृत्युना सह मया कथं योद्धव्यमिति शङ्कापि परिहृता। शिक्षितमपि मूर्खेण विस्मर्यते इति शङ्कानिरासाय धीमतेत्युक्तम्। परपक्षेऽपि त्वदीयमेव बलमिति सूचयन्नाचार्यस्य तन्निरसनभतिसुकरमिति मन्वानः सन्नाह   व्यूढामित्यादिनेत्येके।  द्रुपदपुत्रेणेति कथनं द्रुपदपूर्ववैरसूचनेन क्रोधाद्दीपनार्थम्। धीमतेत्यनुपेक्षणीयत्वसूचनार्थम्। पश्येति व्यासङ्गान्तरनिराकरणेन त्वरातिशयार्थम्। अन्यच्च राजा अवचनमब्रवीत्। हे पाण्डुपुत्राणामाचार्य नतु मम। तेषु स्नेहाधिक्यात्। द्रुपदपुत्रेण तव शिष्येणेति त्वद्वधार्थमुत्पन्नोऽपि त्वयाध्यापित इति तव मौढ्यमेव ममानर्थकारणमिति सूचयति। शत्रोरपि सकाशात्तद्वधोपायभूता विद्या गृहीतेति तस्य धीमत्त्वमतएव तच्चमूदर्शनेनानन्दस्तवैव भविष्यति भ्रान्तत्वान्नान्यस्य कस्यचिदपि। यं प्रतीयं प्रदर्शनीयेति त्वमेवैतां पश्येत्याचार्यं प्रति निगूढं द्वेषं द्योतयति। एवंच यस्य धर्मक्षेत्रेऽपीदृक् दुष्टबुद्धिस्तस्य काऽनुतापशङ्केति भाव इति केचित्। अन्येच्चेत्यारभ्य युद्धार्थं प्रार्थनां कुर्वतो दुर्योधनस्य प्रणिपातादिपुरःसरं आचार्यसमीपं गतस्यात्मनः शिक्षितारं रक्षितारं च प्रत्येवमभिप्रायवर्णनं प्रकृतासंगतं नवेति विद्वद्भिर्निर्मत्सरैः पक्षपातवर्जितौर्विचार्यम्। अनुतापशङ्का मूलविरुद्धेति तु पूर्वमुक्तमेव। नन्वनेन कृतं प्रतारणं बुद्ध्वैवाचार्येणोत्तरं न दत्तमिति चेत्। न। आचार्याभाषणस्य प्रकृतविरुद्धार्थकल्पनांविनैव वक्ष्यमाणरीत्योपपत्तौ तत्कल्पनाया अन्याय्यत्वात्।"
+    },
+    "venkat": {
+        "author": "Vedantadeshikacharya Venkatanatha",
+        "sc": "।। 1.3।।एवं सुयोधनविजयबुभुत्सया कृतस्य प्रश्नस्ययत्र योगेश्वरः 18।78 इति साक्षादुत्तरं वक्ष्यन् तत्प्रत्यायनार्थमखिलमवान्तरवृत्तमपि सञ्जय उवाच  दृष्ट्वेति। पाण्डवानीकं व्यूढं दृष्ट्वा इति सुयोधनस्य धैर्यभ्रंशहेतुः। तदधीनो धैर्यभ्रंशरूपोऽवस्थाविशेषःतुशब्देन सूच्यते। दृष्ट्वेत्यादेरनुनादयन्नित्यन्तस्याव्यक्तांशं व्यञ्जयति  दुर्योधन इत्यादिनाअकथयत् रा.भा.1।19 इत्यन्तेन। संज्ञार्थं सम्यग्ज्ञानार्थम् संज्ञया परिसंख्यानार्थं वा। तत्रअन्तर्विषण्णोऽभवत् इत्यन्तेनभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि 1।11 इत्येतदन्तं व्याख्यातम्।अपर्याप्तं 1।10 इति श्लोकस्यायमर्थः  तत् तस्मात् अस्माकं बलं भीष्माभिरक्षितमपर्याप्तं परबलविजयाय नालम् इदं त्वेतेषां पाण्डवानां बलं भीमाभिरक्षितं पर्याप्तमस्मद्बलविजयायालम्  इति। नन्विदमनुपपन्नं तद्बलमिति सामानाधिकरण्यप्रतीतिभङ्गायोगात् पूर्वत्र च परबलस्वबलयोः सामर्थ्यासामर्थ्यहेतूपन्यासाभावात्। न च भीष्मद्रोणादिरक्षितं स्वबलमयमसमर्थं मन्यते। प्रबलानामेव हि भीष्मद्रोणादीनां वधः सोपाधिकः।न भेतव्यं महाराज म.भा.उ.प.55।1 इत्यादिषु च बहुशः स्वबलस्यैव सामर्थ्यं दुर्योधनेनोपन्यस्तम्। न चेदानीं तद्विपरीतप्रतीतौ कारणमस्ति। द्वितीयदिवसारम्भे च दुर्योधन एवं वक्ष्यति  अपर्याप्तं तदस्माकं बलं पार्थाभिरक्षितम्। पर्याप्तं त्विदमेतेषां बलं पार्थिवसत्तमाः म.भा.उ.प. इति। तत्र चास्माकमपर्याप्तमित्येवान्वयः न पुनरस्माकं बलमिति। ततोऽत्रापि तथैव वचनव्यक्तिरुचिता। तस्मात् पाठभेदेन व्यवहितान्वयेन वाक्यभेदेन पदार्थभेदेन वा योजना स्यात्। तत्र भीमभीष्मशब्दयोर्विपर्यासात्पाठभेदः। तथा च भीमाभिरक्षितं तद्बलमस्माकं अपर्याप्तमित्यन्वये सामानाधिकरण्यम् तदिति विप्रकृष्टनिर्देशस्वारस्यम् दुर्योधनाभिप्रायाविरोधश्च सिद्ध्यति। व्यवहितान्वयेऽप्ययमेवार्थः। द्विधा च व्यवहितान्वयोऽत्र शक्यः। भीमाभिरक्षितभीष्माभिरक्षितयोर्विपर्यासादेकःअपर्याप्तं तत् ৷৷. पर्याप्तं त्विदम् इत्यनयोर्विपर्यासाद्द्वितीयः। अर्थौचित्याय तु व्यवधानमात्रं सह्यते।वाक्यभेदेऽप्येवं योजना  अपर्याप्तं तदित्येका प्रतिज्ञा पर्याप्तं त्विदमिति द्वितीया। अत्र को हेतुरिति शङ्कायां हेतुपरं वाक्यद्वयम् अस्माकं बलं भीष्माभिरक्षितम् एतेषां बलं भीमाभिरक्षितमिति। अस्मद्बलस्य प्रबलाधिष्ठितत्वात् परबलस्य च दुर्बलाधिष्ठितत्वादित्यर्थः। पदार्थभेदे त्वेवं योजना  पर्याप्तं पर्यापनं समापनम् पर्याप्तमिति कर्तरि क्तः नाशनसमर्थमित्यर्थः। अपर्याप्तं नाशनासमर्थमित्यर्थः। भीष्माभिरक्षितमस्माद्बलं तत् अपर्याप्तं नाशयितुं न शक्नोति।तत् इत्य पाण्डवबलं कर्तृतया निर्दिश्यतेइदम् इति च स्वबल परबलपर्यापनकर्तृतया। निष्ठायोगाच्च न कर्मणि षष्ठीप्राप्तिः यद्वा अपर्याप्तमपरिमितमित्यर्थः पर्याप्तं परिमितमित्यर्थः स्वबलस्यैकादशाक्षौहिणीयुक्तत्वात् परबलस्य सप्ताक्षौहिणी युक्तत्वाच्च। सर्वथा तावन्न स्वबलदौर्बल्यं परबलप्राबल्यं च युद्धारम्भे दुर्योधनः प्रसञ्जयेदिति  सोऽयं घण्टापथात्पाटच्चर कुटीरप्रवेशः। तथाहि  इह तावद्भीष्माभिरक्षितमित्येतत्प्रति शिरस्तया भीमाभिरक्षितमिति केनाभिप्रायेण निर्दिश्यते न तावद्भीष्मवद्भीमस्यापि सेनापतित्वेन धृष्टद्युम्नस्य तत्पतित्वेनोक्तत्वात्। नापि भीष्मसमपौरुषत्वेन अत्यन्तविषमतया प्रसिद्धेः। यथोक्तं भीष्मेणैव  शक्तोऽहं धनुषैकेन निहन्तुं सर्वपाण्डवान्। यद्येषां न भवेद्गोप्ता विष्णुः कारणपूरुषः म.भा. इति। नापि प्रतिबलाधीश्वरत्वेन धर्मसूनोस्तथात्वात्। नापि परबलभटप्रधानत्वेन अर्जुनस्यैव तथा प्रसिद्धेः। अतो भीमस्य समस्तधार्तराष्ट्रवधदीक्षितत्वात्तदुचितसाहसबलसहायादियुक्तत्वाच्च तस्य विशेषतो निर्देशः। एवं सति तत्प्रतिशिरस्त्वेन भीष्मस्य निर्देशोऽपि समस्तपाण्डुतनयसंरक्षणप्रवणत्वेन प्रतिपन्नत्वात्। अतः शत्रुभयसहायातिशङ्के पदद्वयसूचिते इत्युक्तं भवति। यत्तूक्तं पूर्वत्र परबलस्वबलयोः सामर्थ्यासामर्थ्यहेतुः"
+    },
+    "puru": {
+        "author": "Sri Purushottamji",
+        "sc": "।।1.3।।तद्वाक्यमेवाह  पश्येत्यादिनवभिः। तत्र भीष्मस्याभिषिक्तत्वात्स्वत एवोत्साहः द्रोणस्यौदासीन्यमालक्ष्य प्रोत्साहयति परोत्कर्षवर्णनैः  एतां निकटस्थाम्। युधिष्ठिरस्य राजत्वाभावादविशेषेण पाण्डुपुत्राणामित्युक्तम्। हे आचार्य यद्यपि त्वमुभयोः समस्तथापि तेषां सेनायाः प्रबलत्वादस्मत्पक्षपातं कुर्वित्यतः सम्बोधनम्। पाण्डुपुत्राणां महतीं स्वभयजनिकां चमूं धीमता व्यूहरचनाकृतिना द्रुपदपुत्रेण धृष्टद्युम्नेन व्यूढां व्यूहरचनया सम्मार्जितां पश्य। तव शिष्येणेति विशेषणेन स्वस्य भयजनकत्वसामर्थ्यं द्योतितम्। तस्य भयाभावः।"
+    },
+    "neel": {
+        "author": "Sri Neelkanth",
+        "sc": "।।1.3।।द्रुपदपुत्रेणेति पूर्ववैरसूचनेन क्रोधोद्दीपनार्थं विशेषणम्।"
+    },
+    "prabhu": {
+        "author": "A.C. Bhaktivedanta Swami Prabhupada",
+        "et": "The Supreme Personality of Godhead said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life. They lead not to higher planets but to infamy.",
+        "ec": " Kṛṣṇa and the Supreme Personality of Godhead are identical. Therefore Lord Kṛṣṇa is referred to as Bhagavān throughout the Gītā. Bhagavān is the ultimate in the Absolute Truth. The Absolute Truth is realized in three phases of understanding, namely Brahman, or the impersonal all-pervasive spirit; Paramātmā, or the localized aspect of the Supreme within the heart of all living entities; and Bhagavān, or the Supreme Personality of Godhead, Lord Kṛṣṇa. In the Śrīmad-Bhāgavatam (1.2.11) this conception of the Absolute Truth is explained thus: vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam brahmeti paramātmeti bhagavān iti śabdyate “The Absolute Truth is realized in three phases of understanding by the knower of the Absolute Truth, and all of them are identical. Such phases of the Absolute Truth are expressed as Brahman, Paramātmā and Bhagavān.” These three divine aspects can be explained by the example of the sun, which also has three different aspects, namely the sunshine, the sun’s surface and the sun planet itself. One who studies the sunshine only is the preliminary student. One who understands the sun’s surface is further advanced. And one who can enter into the sun planet is the highest. Ordinary students who are satisfied by simply understanding the sunshine – its universal pervasiveness and the glaring effulgence of its impersonal nature – may be compared to those who can realize only the Brahman feature of the Absolute Truth. The student who has advanced still further can know the sun disc, which is compared to knowledge of the Paramātmā feature of the Absolute Truth. And the student who can enter into the heart of the sun planet is compared to those who realize the personal features of the Supreme Absolute Truth. Therefore, the bhaktas, or the transcendentalists who have realized the Bhagavān feature of the Absolute Truth, are the topmost transcendentalists, although all students who are engaged in the study of the Absolute Truth are engaged in the same subject matter. The sunshine, the sun disc and the inner affairs of the sun planet cannot be separated from one another, and yet the students of the three different phases are not in the same category. The Sanskrit word bhagavān is explained by the great authority Parāśara Muni, the father of Vyāsadeva. The Supreme Personality who possesses all riches, all strength, all fame, all beauty, all knowledge and all renunciation is called Bhagavān. There are many persons who are very rich, very powerful, very beautiful, very famous, very learned and very much detached, but no one can claim that he possesses all riches, all strength, etc., entirely. Only Kṛṣṇa can claim this because He is the Supreme Personality of Godhead. No living entity, including Brahmā, Lord Śiva or Nārāyaṇa, can possess opulences as fully as Kṛṣṇa. Therefore it is concluded in the Brahma-saṁhitā by Lord Brahmā himself that Lord Kṛṣṇa is the Supreme Personality of Godhead. No one is equal to or above Him. He is the primeval Lord, or Bhagavān, known as Govinda, and He is the supreme cause of all causes: īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ anādir ādir govindaḥ sarva-kāraṇa-kāraṇam “There are many personalities possessing the qualities of Bhagavān, but Kṛṣṇa is the supreme because none can excel Him. He is the Supreme Person, and His body is eternal, full of knowledge and bliss. He is the primeval Lord Govinda and the cause of all causes.” ( Brahma-saṁhitā 5.1) In the Bhāgavatam also there is a list of many incarnations of the Supreme Personality of Godhead, but Kṛṣṇa is described as the original Personality of Godhead, from whom many, many incarnations and Personalities of Godhead expand: ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayam indrāri-vyākulaṁ lokaṁ mṛḍayanti yuge yuge “All the lists of the incarnations of Godhead submitted herewith are either plenary expansions or parts of the plenary expansions of the Supreme Godhead, but Kṛṣṇa is the Supreme Personality of Godhead Himself.” ( Bhāg. 1.3.28) Therefore, Kṛṣṇa is the original Supreme Personality of Godhead, the Absolute Truth, the source of both the Supersoul and the impersonal Brahman. In the presence of the Supreme Personality of Godhead, Arjuna’s lamentation for his kinsmen is certainly unbecoming, and therefore Kṛṣṇa expressed His surprise with the word kutaḥ, “wherefrom.” Such impurities were never expected from a person belonging to the civilized class of men known as Āryans. The word āryan is applicable to persons who know the value of life and have a civilization based on spiritual realization. Persons who are led by the material conception of life do not know that the aim of life is realization of the Absolute Truth, Viṣṇu, or Bhagavān, and they are captivated by the external features of the material world, and therefore they do not know what liberation is. Persons who have no knowledge of liberation from material bondage are called non-Āryans. Although Arjuna was a kṣatriya, he was deviating from his prescribed duties by declining to fight. This act of cowardice is described as befitting the non-Āryans. Such deviation from duty does not help one in the progress of spiritual life, nor does it even give one the opportunity to become famous in this world. Lord Kṛṣṇa did not approve of the so-called compassion of Arjuna for his kinsmen."
+    }
 }

@@ -31,6 +31,7 @@ The dataset includes translations and commentaries in different languages, such 
 - Vedantadeshika
 - Shri Purushottamji
 - Shri Neelkanth
+- A.C. Bhaktivedanta Swami Prabhupada
 
 **Bhagavad Gita API:**
 
