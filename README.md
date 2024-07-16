@@ -35,14 +35,14 @@ The dataset includes translations and commentaries in different languages, such 
 
 **Bhagavad Gita API:**
 
-In addition to the dataset, an API named the Bhagavad Gita API has been developed to provide easy access to the Bhagavad Gita's verses, translations, and commentaries. This API allows developers and enthusiasts to access the teachings of the Bhagavad Gita programmatically. The API can be accessed at [https://bhagavadgitaapi.in/](https://bhagavadgitaapi.in/).
+In addition to the dataset, an API named the Bhagavad Gita API has been developed to provide easy access to the Bhagavad Gita's verses, translations, and commentaries. This API allows developers and enthusiasts to access the teachings of the Bhagavad Gita programmatically. The API can be accessed at [https://vedicscriptures.github.io/](https://vedicscriptures.github.io/).
 
 **API Source Code:**
 
 The source code for the Bhagavad Gita API is available on GitHub at [https://github.com/vedicscriptures/bhagavad-gita-api](https://github.com/vedicscriptures/bhagavad-gita-api). It provides an open-source resource for those interested in contributing or understanding how the API works.
 
 
-## Looking to sponsor [Bhagavad Gita Api](https://bhagavadgitaapi.in/)?
+## Looking to sponsor [Bhagavad Gita Api](https://vedicscriptures.github.io/)?
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
